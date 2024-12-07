@@ -1,0 +1,5 @@
+venv/*
+datasets/*
+coco/*
+
+*/__pycache__/*

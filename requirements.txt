@@ -1,0 +1,8 @@
+mindspore==2.2.14
+pybind11>=2.10.4
+numpy>=1.17.0
+PyYAML>=5.3
+tqdm
+opencv-python>=4.7.0.68
+pycocotools>=2.0.2
+ultralytics
